@@ -10,6 +10,8 @@
 # often but whenever the time comes to relase using GoReleaser, something
 # has changed.
 #
+# Project home: https://github.com/muquit/go-xbuild
+#
 # muquit@muquit.com Nov-26-2023 
 ########################################################################
 
